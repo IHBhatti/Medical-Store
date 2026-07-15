@@ -1,0 +1,4 @@
+# All free, open-source Python packages. No paid or external APIs needed at all.
+
+streamlit==1.39.0
+pandas==2.2.3
